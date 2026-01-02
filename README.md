@@ -5,6 +5,6 @@ First project on Future interns internship. I have to design a modern digital me
 
 🔗 https://www.figma.com/design/cAfDP8zFkpSyYvMfDjn2uT/Food_menu
 
-[![Figma Design](assets/web.png)]
+![Figma Design](assets/web.png)
 
-[![Figma Design](assets/mobile.png)]
+![Figma Design](assets/mobile.png)
